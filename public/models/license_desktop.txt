@@ -1,0 +1,8 @@
+Model Information:
+* title:	Programmer desktop 3d PC
+* source:	https://sketchfab.com/3d-models/programmer-desktop-3d-pc-b22983c256174878973cf59b11e90aad
+* author:	abdullahdlpr (https://sketchfab.com/abdullahdlpr)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

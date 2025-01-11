@@ -1,0 +1,8 @@
+Model Information:
+* title:	iPhone 16 - Free
+* source:	https://sketchfab.com/3d-models/iphone-16-free-d58591e88a824dfd8cef0af616273b02
+* author:	Wes (https://sketchfab.com/wimell)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

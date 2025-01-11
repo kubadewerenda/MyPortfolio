@@ -1,0 +1,8 @@
+Model Information:
+* title:	Laptop Model (Black)
+* source:	https://sketchfab.com/3d-models/laptop-model-black-404bef9dab2e46f99ebd4c09ed664ee3
+* author:	SILVER KEY (https://sketchfab.com/silver_key_nerd)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
